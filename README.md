@@ -18,26 +18,18 @@ SkyLabDiamonds is a fully responsive diamond e-commerce website developed using 
 - JavaScript (ES6)
 - jQuery
 
-## Project Structure
-```
-SkyLabDiamonds/
-│── index.html
-│── css/
-│   ├── style.css
-│── js/
-│   ├── script.js
-│── images/
-│   ├── image1.jpg
-│   ├── image2.jpg
-│   ├── image3.jpg
-│   ├── image4.jpg
-│   ├── image5.jpg
-│   ├── image6.jpg
-│   ├── image7.jpg
-│   ├── image8.jpg
-│   ├── image9.jpg
-│── README.md
-```
+## Demo Images
+Here are some preview images of the project:
+
+![Demo Image 1](images/image1.jpg)
+![Demo Image 2](images/image2.jpg)
+![Demo Image 3](images/image3.jpg)
+![Demo Image 4](images/image4.jpg)
+![Demo Image 5](images/image5.jpg)
+![Demo Image 6](images/image6.jpg)
+![Demo Image 7](images/image7.jpg)
+![Demo Image 8](images/image8.jpg)
+![Demo Image 9](images/image9.jpg)
 
 ## How to Run the Project
 1. Clone this repository:
@@ -49,3 +41,5 @@ SkyLabDiamonds/
 ## Author
 Developed by [Jenil Paladiya](https://github.com/Jenilpaladiya).
 
+## License
+This project is licensed under the MIT License.
