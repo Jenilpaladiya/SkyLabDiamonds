@@ -43,23 +43,23 @@ SkyLabDiamonds is a fully responsive diamond e-commerce website developed using 
 ## Demo Images
 Here are some preview images of the project:
 
-![Demo Image 1](images/image1.jpg)  
+![Demo Image 1](skylabdiamonds/1.jpg)  
 &nbsp;  
-![Demo Image 2](images/image2.jpg)  
+![Demo Image 2](skylabdiamonds/2.jpg)  
 &nbsp;  
-![Demo Image 3](images/image3.jpg)  
+![Demo Image 3](skylabdiamonds/3.jpg)  
 &nbsp;  
-![Demo Image 4](images/image4.jpg)  
+![Demo Image 4](skylabdiamonds/4.jpg)  
 &nbsp;  
-![Demo Image 5](images/image5.jpg)  
+![Demo Image 5](skylabdiamonds/5.jpg)  
 &nbsp;  
-![Demo Image 6](images/image6.jpg)  
+![Demo Image 6](skylabdiamonds/6.jpg)  
 &nbsp;  
-![Demo Image 7](images/image7.jpg)  
+![Demo Image 7](skylabdiamonds/7.jpg)  
 &nbsp;  
-![Demo Image 8](images/image8.jpg)  
+![Demo Image 8](skylabdiamonds/8.jpg)  
 &nbsp;  
-![Demo Image 9](images/image9.jpg)  
+![Demo Image 9](skylabdiamonds/9.jpg)  
 
 ## How to Run the Project
 1. Clone this repository:
