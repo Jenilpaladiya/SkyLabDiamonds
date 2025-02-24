@@ -44,7 +44,7 @@ Here are some preview images of the project:
    ```sh
    git clone https://github.com/Jenilpaladiya/SkyLabDiamonds.git
    ```
-2. Open the `index.html` file in your browser.
+2. Open the `home.html` file in your browser.
 
 ## Author
 Developed by [Jenil Paladiya](https://github.com/Jenilpaladiya).
